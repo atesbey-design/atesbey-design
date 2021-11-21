@@ -5,7 +5,7 @@
 
 - 💬LinkedIn Account **https://www.linkedin.com/in/ate%C5%9F-bey-5298981b7/**
 
-- 📫 Youtube Channel **https://www.youtube.com/channel/UCQHqRmu1sqweqbCL_Zkfoag**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
