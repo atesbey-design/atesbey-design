@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atesbey-design&label=Profile%20views&color=0e75b6&style=flat" alt="atesbey-design" /> </p>
 
-- 💬LinkedIn Account **https://www.linkedin.com/in/ate%C5%9F-bey-5298981b7/**
+- 💬LinkedIn  **https://www.linkedin.com/in/ate%C5%9F-ba%C4%9F%C3%A7aba%C5%9F%C4%B1-5298981b7/**
 
 
 
