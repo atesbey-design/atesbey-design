@@ -7,7 +7,7 @@
   <br/>
   <h2 align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atesbey-design&show_icons=true&locale=en" alt="atesbey-design" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atesbey-design&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atesbey-design&20views&&theme=tokyonight" /> </p>
 
 
  
