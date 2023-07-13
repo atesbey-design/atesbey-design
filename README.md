@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73131&width=435&lines=Keep+Building)]"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73131&width=435&lines=Keep+Building"></a>
  
 </p>
 
