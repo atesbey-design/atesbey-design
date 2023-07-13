@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
-  <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
+  <a href="#"><img alt="" src="https://gpvc.arturio.dev/atesbey-design"></a>
 </p>
 <h3 align="center">
   Hi there, I'm Ates.eth
@@ -19,12 +19,13 @@
 
 
 ### ⚡ Skills:
-javascript typescript react graphql nodejs
 
-<!-- [![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)](#) -->
-<!-- [![Java](https://img.shields.io/badge/-java-E34A86?logo=java)](#) -->
-<!-- [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](#) -->
-<!-- style=flat-square& -->
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 
 ### 🛠 Tools:
 <p>
